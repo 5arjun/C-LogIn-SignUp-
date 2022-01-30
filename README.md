@@ -1,5 +1,7 @@
 # C-LogIn-SignUp-Program
-
+This project was created after taking a programming in C class at Temple University, using basically everything 
+  learned and incorporating it into one thing. This is a personal project and has nothing to do with the class.
+  
 Everything is done in the terminal.
 Pretty simple program which involes basic login or sign up options.
 Program opens and reads a file which contains the usernames and passwords for users that are 
